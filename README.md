@@ -2,8 +2,8 @@
 A repo to store all of my react projects for learning.
 
 # Development
-Clone the repository
-``git clone https://github.com/terror/learn-react.git ``
+Fork repository and clone your fork
+``git clone https://github.com/user/learn-react.git ``
 
 CD into project folder
 `` cd tic-tac-toe``
