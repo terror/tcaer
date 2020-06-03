@@ -12,5 +12,5 @@ Run server
 `` npm start ``
 
 # Projects
-[Tic Tac Toe]([https://github.com/terror/learn-react/tree/master/tic-tac-toe)
+- [Tic Tac Toe](https://github.com/terror/learn-react/tree/master/tic-tac-toe)  
 Learned: components, props, state
