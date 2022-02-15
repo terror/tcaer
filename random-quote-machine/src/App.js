@@ -8,11 +8,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import QuoteBox from './components/QuoteBox';
 
 const App = () => {
-	return (
-		<div className='App'>
-			<QuoteBox />
-		</div>
-	);
+  return (
+    <div className='App'>
+      <QuoteBox />
+    </div>
+  );
 };
 
 export default App;
